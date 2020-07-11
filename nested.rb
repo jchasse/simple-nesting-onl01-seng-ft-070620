@@ -112,7 +112,7 @@ def changing_alan
         }
      }
      #change what Alan Kay is :known_for to the value of the alans_new_info variable.
-     programer_hash[:alan_kay][:known_for] = "GUI"
+     programmer_hash[:alan_kay][:known_for] = "GUI"
 
 return programer_hash
 
